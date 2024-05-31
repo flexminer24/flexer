@@ -17,7 +17,7 @@
 - Untar it
 - Run it
 ```
-wget https://github.com/flexminer24/flexer/releases/download/v0.1.0/flexer-avx.tar.gz
+wget https://github.com/flexminer24/flexer/releases/download/v0.1.2/flexer-avx.tar.gz
 tar -xvf ./flexer-avx.tar.gz
 ./flexer-avx --url mpool.live:1510 --user <your_wallet>
 ```
